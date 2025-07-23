@@ -40,7 +40,8 @@ claude
 2. 点击注册按钮创建新账户
 3. 填写必要的注册信息
 
-![注册账户](https://aicloud.mygptmeta.com/wp-content/uploads/2025/07/%E6%B3%A8%E5%86%8C.jpg)
+<img width="2560" height="1247" alt="image" src="https://github.com/user-attachments/assets/97c4163f-15f3-493f-af6b-cc50d2adae95" />
+
 
 ## 2.2 创建API密钥
 
@@ -50,7 +51,8 @@ claude
 4. 生成并复制您的API密钥
 
 
-<img width="50" height="50" alt="f1edf312fb36a2ab22473dc2859ef4f" src="https://github.com/user-attachments/assets/cbe1ce54-ca1d-46d6-b9df-772f6bad36c9" />
+<img width="1756" height="1370" alt="image" src="https://github.com/user-attachments/assets/b871209b-9592-4bba-b62b-803616a68fb3" />
+
 
 
 # 3. 配置文件设置
