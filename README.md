@@ -173,7 +173,7 @@ check_config() {
     if [ -z "$API_KEY" ] || [ -z "$API_BASE_URL" ]; then
         echo "❌ 配置不完整！请编辑脚本并填入以下信息："
         echo "  - API_KEY: 您的 API 密钥"
-        echo "  - API_BASE_URL: API 基础地址 (例如: https://coultra.blueshirtmap.com )"
+        echo "  - API_BASE_URL: API 基础地址 (例如: https://agenthub,asia )"
         exit 1
     fi
 }
