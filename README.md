@@ -81,7 +81,7 @@ claude
 {
     "env": {
       "ANTHROPIC_API_KEY": "您的APIkey",
-      "ANTHROPIC_BASE_URL": "https://coultra.blueshirtmap.com",
+      "ANTHROPIC_BASE_URL": "https://agenthub.asia",
       "CLAUDE_CODE_MAX_OUTPUT_TOKENS":64000,
       "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC":1,
       "CLAUDE_MODEL": "Claude模型名称"
