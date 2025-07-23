@@ -140,8 +140,8 @@ chmod +x claudecode.sh
 # 🔑 API 密钥 - 请填入您的 API 密钥
 readonly API_KEY=""
 
-# 🌐 API 基础地址 - 请填入您的 API 基础地址 (例如: "https://coultra.blueshirtmap.com")
-readonly API_BASE_URL="https://coultra.blueshirtmap.com"
+# 🌐 API 基础地址 - 请填入您的 API 基础地址 (例如: "https://agenthub.asia")
+readonly API_BASE_URL="https://agenthub.asia"
 
 # ==============================================================================
 # 以下内容请勿修改
