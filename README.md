@@ -36,7 +36,7 @@ claude
 
 ## 2.1 注册账户
 
-1. 访问 [https://coultra.blueshirtmap.com](https://coultra.blueshirtmap.com/)
+1. 访问 [https://agenthub.asia/)
 2. 点击注册按钮创建新账户
 3. 填写必要的注册信息
 
