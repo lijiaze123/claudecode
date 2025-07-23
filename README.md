@@ -450,7 +450,8 @@ main "$@"
 claude
 ```
 
-![Claude进入界面](https://aicloud.mygptmeta.com/wp-content/uploads/2025/07/claude%E8%BF%9B%E5%85%A5.png)
+<img width="1545" height="1138" alt="image" src="https://github.com/user-attachments/assets/c252a4cc-c1e8-4086-a257-d8763604acdf" />
+
 
 ### 带初始提示启动
 
