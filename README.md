@@ -50,7 +50,7 @@ claude
 4. 生成并复制您的API密钥
 
 
-![创建令牌]![Uploading f1edf312fb36a2ab22473dc2859ef4f.png…]()
+![创建令牌]<img width="50" height="50" alt="f1edf312fb36a2ab22473dc2859ef4f" src="https://github.com/user-attachments/assets/cbe1ce54-ca1d-46d6-b9df-772f6bad36c9" />
 
 
 # 3. 配置文件设置
