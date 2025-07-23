@@ -450,7 +450,8 @@ main "$@"
 claude
 ```
 
-<img width="1545" height="1138" alt="image" src="https://github.com/user-attachments/assets/c252a4cc-c1e8-4086-a257-d8763604acdf" />
+<img width="1910" height="1389" alt="image" src="https://github.com/user-attachments/assets/7f9da159-aeca-4267-9d69-5fb1def5ef95" />
+
 
 
 ### 带初始提示启动
