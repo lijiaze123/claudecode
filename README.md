@@ -49,7 +49,9 @@ claude
 3. 选择"ClaudeCode"作为分组名称
 4. 生成并复制您的API密钥
 
-![创建令牌](https://aicloud.mygptmeta.com/wp-content/uploads/2025/07/%E4%BB%A4%E7%89%8C.png)
+
+![创建令牌]![Uploading f1edf312fb36a2ab22473dc2859ef4f.png…]()
+
 
 # 3. 配置文件设置
 
